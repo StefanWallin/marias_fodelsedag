@@ -46,12 +46,19 @@ img {
   left: 0;
   right: 0;
 }
+
+section {
+	margin: 0 auto;
+	max-width: 320px;	
+}
+
 section.first {
   color: white;
   background-color: #444450;
   margin-bottom: 0;
 
 }
+
 section.second {
   padding-top: 250px;
   background-color: #da4a03;
